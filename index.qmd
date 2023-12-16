@@ -10,4 +10,12 @@ about:
       href: https://sachin-iitd.github.io
 ---
 
+With good software development experience, researching now on effective systems and solutions for improved societal and computational sustainability, using AI/ML with Cloud and Edge Computing.
 
+### Research Works
+
+[NeurIPS'20](https://proceedings.neurips.cc/paper/2020/file/97e49161287e7a4f9b745366e4f9431b-Paper.pdf)
+
+[NeurIPS'23](https://openreview.net/pdf?id=n2wW7goGky)
+
+[Compass'22](https://www.cse.iitd.ac.in/~rijurekha/papers/compass22_traffic.pdf)
