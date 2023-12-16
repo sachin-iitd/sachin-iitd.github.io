@@ -1,6 +1,5 @@
 ---
 title: Sachin Chauhan
-image:
 about:
   template: trestles
   image-width: 10em
