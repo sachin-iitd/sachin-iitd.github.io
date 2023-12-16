@@ -10,18 +10,8 @@ website:
         text: Home
       - href: papers
         text: Publications
-      - href: teaching.qmd
-        text: Teaching
-      - href: https://nipunbatra.github.io/lab/
-        text: Lab (+Handbook)
-      - href: blog
-        text: Blog
       - href: news.qmd
         text: News
-      - href: media.qmd
-        text: Media
-      - href: files/cv.pdf
-        text: CV
 
 format:
   html:
