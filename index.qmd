@@ -25,7 +25,7 @@ EcoLight: Intersection Control in Developing Regions Under Extreme Budget and Ne
 
 DynCNN: Application Dynamism and Ambient Temperature Aware Neural Network Scheduler in Edge Devices for Traffic Control
 
-NeurIPS'23: 
+#### NeurIPS'23: 
 [Paper](https://openreview.net/pdf?id=n2wW7goGky)
 [Code](https://github.com/sachin-iitd/DelhiPMDatasetBenchmark)
 
@@ -34,9 +34,3 @@ AirDelhi: Fine-Grained Spatio-Temporal Particulate Matter Dataset From Delhi For
 #### NeurIPS'23 (Workshop on Computational Sustainability)
 
 RealLight: DRL based Intersection Control in Developing Countries without Traffic Simulators
-
----
-[NeurIPS'20](https://proceedings.neurips.cc/paper/2020/file/97e49161287e7a4f9b745366e4f9431b-Paper.pdf)
-[NeurIPS'23](https://openreview.net/pdf?id=n2wW7goGky)
-[Compass'22](https://www.cse.iitd.ac.in/~rijurekha/papers/compass22_traffic.pdf)
----
