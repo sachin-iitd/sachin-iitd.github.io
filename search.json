@@ -4,25 +4,32 @@
     "href": "papers/index.html",
     "title": "Publications",
     "section": "",
-    "text": "Sachin Chauhan,Zeel Patel,Sayan Ranu,Rijurekha Sen,Nipun Batra. In NeurIPS, 2023\n\n\n\nSachin Chauhan,Rijurekha Sen. In NeurIPS, 2023 (Workshop on Computational Sustainability)"
+    "text": "Sachin Chauhan,Rijurekha Sen. In ACM-JCSS, 2024\n\n\n\nSachin Chauhan,Rijurekha Sen. In ACM-COMPASS, 2024"
   },
   {
     "objectID": "papers/index.html#section",
     "href": "papers/index.html#section",
     "title": "Publications",
     "section": "",
-    "text": "Sachin Chauhan,Zeel Patel,Sayan Ranu,Rijurekha Sen,Nipun Batra. In NeurIPS, 2023\n\n\n\nSachin Chauhan,Rijurekha Sen. In NeurIPS, 2023 (Workshop on Computational Sustainability)"
+    "text": "Sachin Chauhan,Rijurekha Sen. In ACM-JCSS, 2024\n\n\n\nSachin Chauhan,Rijurekha Sen. In ACM-COMPASS, 2024"
   },
   {
     "objectID": "papers/index.html#section-1",
     "href": "papers/index.html#section-1",
     "title": "Publications",
-    "section": "2022",
-    "text": "2022\n\nDynCNN: Application Dynamism and Ambient Temperature Aware Neural Network Scheduler in Edge Devices for Traffic Control\nOmais Shafi, Sachin Chauhan, Gayathri Ananthanarayanan, Rijurekha Sen. In COMPASS, 2022"
+    "section": "2023",
+    "text": "2023\n\nAirDelhi: Fine-Grained Spatio-Temporal Particulate Matter Dataset From Delhi For ML based Modeling\nSachin Chauhan,Zeel Patel,Sayan Ranu,Rijurekha Sen,Nipun Batra. In NeurIPS, 2023\n\n\nRealLight: DRL based Intersection Control in Developing Countries without Traffic Simulators\nSachin Chauhan,Rijurekha Sen. In NeurIPS, 2023 (Workshop on Computational Sustainability)"
   },
   {
     "objectID": "papers/index.html#section-2",
     "href": "papers/index.html#section-2",
+    "title": "Publications",
+    "section": "2022",
+    "text": "2022\n\nDynCNN: Application Dynamism and Ambient Temperature Aware Neural Network Scheduler in Edge Devices for Traffic Control\nOmais Shafi, Sachin Chauhan, Gayathri Ananthanarayanan, Rijurekha Sen. In COMPASS, 2022"
+  },
+  {
+    "objectID": "papers/index.html#section-3",
+    "href": "papers/index.html#section-3",
     "title": "Publications",
     "section": "2020",
     "text": "2020\n\nEcoLight: Intersection Control in Developing Regions Under Extreme Budget and Network Constraints\nSachin Chauhan,Kashish Bansal,Rijurekha Sen. In NeurIPS, 2020"
