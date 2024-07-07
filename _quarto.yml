@@ -12,6 +12,8 @@ website:
         text: Publications
       - href: news.qmd
         text: News
+      - href: files/cv.pdf
+        text: CV
 
 format:
   html:
