@@ -13,7 +13,7 @@ about:
       href: mailto:sachin@cse.iitd.ac.in
 ---
 
-With good software development experience, researching now on effective systems and solutions for improved societal and computational sustainability (for traffic congestion and traffic impacted air pollution), using AI/ML with Cloud and Edge Computing.
+Interests in ML training and inference performance improvements for real AI systems, with scalable resource-efficient architectures and sustainable optimizations (exploiting quantization / distillation / heuristics), using collected, curated, and existing multimodal data.
 
 ### Research Works
 
