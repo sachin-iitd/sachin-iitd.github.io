@@ -13,33 +13,37 @@ about:
       href: mailto:sachin@cse.iitd.ac.in
 ---
 
-Interests in ML training and inference performance improvements for real AI systems, with scalable resource-efficient architectures and sustainable optimizations (exploiting quantization / distillation / heuristics), using collected, curated, and existing multimodal data.
+Interests in adaptive decision-making under partial observability, spanning reinforcement learning, multimodal sensing, and large-scale AI systems. Extensive experience deploying AI systems in real-world and resource-constrained environments, using ML training and inference performance improvements, with scalable resource-efficient architectures and optimizations (exploiting quantization / distillation / heuristics), over collected, curated, and existing multimodal data.
 
 ### Research Works
 
-#### NeurIPS'20: 
-EcoLight: Intersection Control in Developing Regions Under Extreme Budget and Network Constraints <br>
-[Paper](https://proceedings.neurips.cc/paper/2020/file/97e49161287e7a4f9b745366e4f9431b-Paper.pdf)
-[Code](https://github.com/sachin-iitd/EcoLight)
+#### AAAI'26: 
+Self-Regulating Cars: Automating Traffic Control in Free Flow Road Networks <br>
+[Paper](https://doi.org/10.1609/aaai.v40i45.41163)
 
 #### NeurIPS'23: 
 AirDelhi: Fine-Grained Spatio-Temporal Particulate Matter Dataset From Delhi For ML based Modeling <br>
-[Paper](https://openreview.net/pdf?id=n2wW7goGky)
+[Paper](https://papers.nips.cc/paper_files/paper/2023/hash/ee799aff607fcf39c01df6391e96f92c-Abstract-Datasets_and_Benchmarks.html)
 [Code](https://github.com/sachin-iitd/DelhiPMDatasetBenchmark)
+
+#### NeurIPS'20: 
+EcoLight: Intersection Control in Developing Regions Under Extreme Budget and Network Constraints <br>
+[Paper](https://proceedings.neurips.cc/paper/2020/hash/97e49161287e7a4f9b745366e4f9431b-Abstract.html)
+[Code](https://github.com/sachin-iitd/EcoLight)
 
 #### ACM-JCSS'24: 
 FrugalLight: Symmetry-Aware Cyclic Heterogeneous Intersection Control using Deep RL with Model Compression, Distillation & Domain Knowledge <br>
-[Paper](https://drive.google.com/drive/folders/1ROTi6wPELNAqqoHMnl0wk8LDnYzpIi75)
+[Paper](https://dl.acm.org/doi/10.1145/3648599)
 [Code](https://github.com/sachin-iitd/FrugalLight)
 
 #### ACM-COMPASS'24: 
 WebLight: Deep RL based Multi-modal Intersection Control in Developing Countries without Reliable Cameras <br>
-[Paper](https://drive.google.com/drive/folders/1ROTi6wPELNAqqoHMnl0wk8LDnYzpIi75)
+[Paper](https://dl.acm.org/doi/10.1145/3674829.3675075)
 [Code](https://github.com/sachin-iitd/WebLight)
 
 #### ACM-COMPASS'22:
 DynCNN: Application Dynamism and Ambient Temperature Aware Neural Network Scheduler in Edge Devices for Traffic Control <br>
-[Paper](https://www.cse.iitd.ac.in/~rijurekha/papers/compass22_traffic.pdf)
+[Paper](https://dl.acm.org/doi/10.1145/3530190.3534823)
 
 #### NeurIPS'23 (Workshop on Computational Sustainability)
 RealLight: DRL based Intersection Control in Developing Countries without Traffic Simulators
