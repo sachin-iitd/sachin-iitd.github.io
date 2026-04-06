@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "Recent News",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sachin Chauhan",
     "section": "",
-    "text": "Sep 2023: Our NeurIPS 2023 paper gets accepted - AirDelhi: Fine-Grained Spatio-Temporal Particulate Matter Dataset From Delhi For ML based Modeling"
+    "text": "Interests in ML training and inference performance improvements for real AI systems, with scalable resource-efficient architectures and sustainable optimizations (exploiting quantization / distillation / heuristics), using collected, curated, and existing multimodal data.\n\nResearch Works\n\nNeurIPS’20:\nEcoLight: Intersection Control in Developing Regions Under Extreme Budget and Network Constraints  Paper Code\n\n\nNeurIPS’23:\nAirDelhi: Fine-Grained Spatio-Temporal Particulate Matter Dataset From Delhi For ML based Modeling  Paper Code\n\n\nACM-JCSS’24:\nFrugalLight: Symmetry-Aware Cyclic Heterogeneous Intersection Control using Deep RL with Model Compression, Distillation & Domain Knowledge  Paper Code\n\n\nACM-COMPASS’24:\nWebLight: Deep RL based Multi-modal Intersection Control in Developing Countries without Reliable Cameras  Paper Code\n\n\nACM-COMPASS’22:\nDynCNN: Application Dynamism and Ambient Temperature Aware Neural Network Scheduler in Edge Devices for Traffic Control  Paper\n\n\nNeurIPS’23 (Workshop on Computational Sustainability)\nRealLight: DRL based Intersection Control in Developing Countries without Traffic Simulators Paper"
   },
   {
     "objectID": "papers/index.html",
@@ -42,10 +42,10 @@
     "text": "2020\n\nEcoLight: Intersection Control in Developing Regions Under Extreme Budget and Network Constraints\nSachin Chauhan,Kashish Bansal,Rijurekha Sen. In NeurIPS, 2020"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sachin Chauhan",
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "Recent News",
     "section": "",
-    "text": "Interests in ML training and inference performance improvements for real AI systems, with scalable resource-efficient architectures and sustainable optimizations (exploiting quantization / distillation / heuristics), using collected, curated, and existing multimodal data.\n\nResearch Works\n\nNeurIPS’20:\nEcoLight: Intersection Control in Developing Regions Under Extreme Budget and Network Constraints  Paper Code\n\n\nNeurIPS’23:\nAirDelhi: Fine-Grained Spatio-Temporal Particulate Matter Dataset From Delhi For ML based Modeling  Paper Code\n\n\nACM-JCSS’24:\nFrugalLight: Symmetry-Aware Cyclic Heterogeneous Intersection Control using Deep RL with Model Compression, Distillation & Domain Knowledge  Paper Code\n\n\nACM-COMPASS’24:\nWebLight: Deep RL based Multi-modal Intersection Control in Developing Countries without Reliable Cameras  Paper Code\n\n\nACM-COMPASS’22:\nDynCNN: Application Dynamism and Ambient Temperature Aware Neural Network Scheduler in Edge Devices for Traffic Control  Paper\n\n\nNeurIPS’23 (Workshop on Computational Sustainability)\nRealLight: DRL based Intersection Control in Developing Countries without Traffic Simulators Paper"
+    "text": "Jan 2026: Our AAAI 2026 paper gets published - Self-Regulating Cars: Automating Traffic Control in Free Flow Road Networks"
   }
 ]
