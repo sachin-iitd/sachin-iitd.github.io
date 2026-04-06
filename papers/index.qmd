@@ -2,6 +2,12 @@
 title: Publications
 ---
 
+## 2026
+
+#### Self-Regulating Cars: Automating Traffic Control in Free Flow Road Networks
+
+Ankit Bhardwaj,Rohail Asim,**Sachin Chauhan**,Yasir Zaki,Lakshmi Subramanian. In AAAI, 2026
+
 ## 2024
 
 #### FrugalLight: Symmetry-Aware Cyclic Heterogeneous Intersection Control using Deep RL with Model Compression, Distillation & Domain Knowledge
